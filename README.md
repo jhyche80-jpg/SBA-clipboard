@@ -6,17 +6,11 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 Your challenge is to build out this landing page and get it looking as close to the design as possible.
@@ -36,6 +30,13 @@ Users should be able to:
 2. I neded to know what I needed to do so I wrote down what needed to be done. 
 3. I will now move top to bottom and fix the code to fit the website shown
     -I added the images first since i will be working around those images 
+    - i then moved the content and information around that  picture 
+4. I then went line by line and added spacing and flex boxes around more things that needed flex boxes
+5. Then after that I moved to the bottom of the screen to the footer 
+    - I lined up everything down there 
+    -  changed the color of the font 
+    - added filters in the css code and made theimages change color when you hover them. 
+6. I then went back and changed the font colors and fixed small problems I went through during the duration of the code, 
 ### Built with
 
 - Semantic HTML5 markup
@@ -44,55 +45,32 @@ Users should be able to:
 - CSS Grid
 - Bootstrap
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I learned alot more about bootstrap and made more progress than I thought I would. However the font I was given wasnt the same as the font I was working with since if i used that font, It would of changed the website into something that would be completly unreadable. I also am curretnly trying to learn and understand the filter function since I really do not get that and it is really confusing. I need to research more if there is an easier way than the way i did in the  code.  I ended up using a codepen to translate it after long research. 
 
-To see how you can add code snippets, see below:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+To continue developing skills in this the next few projects I might use bootstrap to get better at using it . 
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- https://codepen.io/sosuke/pen/Pjoqqp
+- https://getbootstrap.com/docs/5.3/components/carousel/#dark-variant
+- https://www.w3schools.com/css/css_align.asp
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
-## Author
+## reflection 
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+###Write a brief reflection (100-200 words) discussing:
+    - Challenges you encountered during the project.
+    - Your approach to solving these challenges.
+    - Improvements you would make if given more time.
+The biggest challenge I had was making the filters, and using bootstrap to make the code using the restrictions that bootstrap gives. My approach to fix these problems were to look them up and see examples of them to understand whats goinng on. After looking it up i try to put it in the code. I wish that i could figure out how to be more persice in the cooding. 
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
-## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
