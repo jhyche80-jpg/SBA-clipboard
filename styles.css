@@ -1,0 +1,22 @@
+.p {
+    font-size: 18px;
+}
+
+.custom-link {
+    color: #000000;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.custom-link:hover {
+    color: var(--bs-info);
+}
+
+.hover-info {
+    transition: filter 0.3s ease;
+}
+
+.hover-info:hover {
+
+    filter: brightness(0) saturate(100%) invert(58%) sepia(92%) saturate(2319%) hue-rotate(161deg) brightness(93%) contrast(92%);
+}
