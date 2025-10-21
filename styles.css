@@ -1,5 +1,6 @@
 .p {
-    font-size: 18px;
+    font-size: 20px;
+   
 }
 
 .custom-link {
@@ -7,7 +8,10 @@
     text-decoration: none;
     transition: color 0.3s ease;
 }
-
+.font-color{
+    
+    filter: brightness(0) saturate(100%) invert(88%) sepia(5%) saturate(303%) hue-rotate(163deg) brightness(86%) contrast(88%); ;
+}
 .custom-link:hover {
     color: var(--bs-info);
 }
