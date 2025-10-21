@@ -66,7 +66,7 @@ To continue developing skills in this the next few projects I might use bootstra
 
 ## reflection 
 
-###Write a brief reflection (100-200 words) discussing:
+### Write a brief reflection (100-200 words) discussing:
     - Challenges you encountered during the project.
     - Your approach to solving these challenges.
     - Improvements you would make if given more time.
