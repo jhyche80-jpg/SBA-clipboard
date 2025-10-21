@@ -35,17 +35,14 @@ Users should be able to:
 1. I needed to seee things easier , added divs and the proper html to everything in the doccument giving buttons to buttons and links to links .
 2. I neded to know what I needed to do so I wrote down what needed to be done. 
 3. I will now move top to bottom and fix the code to fit the website shown
-    -
+    -I added the images first since i will be working around those images 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Bootstrap
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
