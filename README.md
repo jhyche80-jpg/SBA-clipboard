@@ -70,7 +70,7 @@ To continue developing skills in this the next few projects I might use bootstra
     - Challenges you encountered during the project.
     - Your approach to solving these challenges.
     - Improvements you would make if given more time.
-The biggest challenge I had was making the filters, and using bootstrap to make the code using the restrictions that bootstrap gives. My approach to fix these problems were to look them up and see examples of them to understand whats goinng on. After looking it up i try to put it in the code. I wish that i could figure out how to be more persice in the cooding. 
+The biggest challenge I had was making the filters, and using bootstrap to make the code using the restrictions that bootstrap gives. My approach to fix these problems were to look them up and see examples of them to understand whats goinng on. After looking it up i try to put it in the code. I wish that i could figure out how to be more persice in the cooding.  Honestly  I would like to practice more adjusting to make things compatable with phones 
 
 
 
